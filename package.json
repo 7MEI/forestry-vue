@@ -1,0 +1,43 @@
+{
+  "name": "yeb",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@xkeshi/vue-qrcode": "^1.0.0",
+    "axios": "^0.21.1",
+    "core-js": "^3.6.5",
+    "echarts": "^5.2.2",
+    "element-ui": "^2.15.2",
+    "font-awesome": "^4.7.0",
+    "js-file-download": "^0.4.12",
+    "less-loader": "^5.0.0",
+    "node-sass": "^4.14.1",
+    "qrcode": "^1.5.0",
+    "qrcodejs2": "0.0.2",
+    "sockjs-client": "^1.5.2",
+    "stompjs": "^2.3.3",
+    "vue": "^2.6.11",
+    "vue-qr": "^3.2.2",
+    "vue-router": "^3.2.0",
+    "vue-touch": "^2.0.0-beta.4",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "less": "^4.1.2",
+    "sass-loader": "^8.0.2",
+    "vant": "^2.12.33",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
